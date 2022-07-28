@@ -1,0 +1,1 @@
+curl -s -X POST -H "Content-Type: application/json" -d '{"kind":"pyspark"}' $1:8998/sessions
